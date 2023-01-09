@@ -37,6 +37,23 @@
         font-size: calc(1.5rem / 1.5) ;
     }
    
-  
+    .row{
+        flex-wrap: wrap;
+    }
 
+    .lessons .col {
+        width: 100%;
+    }
+
+    .steps .col {
+        width: 100%;
+    }
+
+    .why-us .col-left {
+        width: 100%;
+    }
+    
+    .why-us .col-right {
+        width: 100%;
+    }
 }
